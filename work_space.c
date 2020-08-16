@@ -6,3 +6,7 @@ void main(void)
 	printf("creat a work space,loacal repo change something after remote change，remote change again\n");
 
 }
+
+void Func(void)
+
+
