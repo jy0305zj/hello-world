@@ -2,6 +2,6 @@
 
 void main(void)
 {
-	printf("creat a work space\n");
+	printf("creat a work space,remote repo/\n");
 
 }
